@@ -1,2 +1,1 @@
-# friction-expressions
-Friction Expressions
+# Friction Expressions
